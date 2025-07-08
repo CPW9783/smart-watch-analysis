@@ -1,0 +1,7 @@
+﻿com.samsung.shealth.stress,6302031,8
+create_sh_ver,start_time,custom,binning_data,tag_id,modify_sh_ver,update_time,create_time,max,min,score,algorithm,time_offset,deviceuuid,comment,pkg_name,end_time,datauuid
+,2023-06-28 22:17:58.000,,,10000,,2023-06-28 22:17:58.880,2023-06-28 22:17:58.880,,,100.0,,UTC-0400,MPNPO0O1wv,,com.sec.android.app.shealth,2023-06-28 22:17:58.000,aa0b327c-f609-4fee-972f-8c598bc6c3ed,
+,2023-06-29 01:37:42.000,,,10000,,2023-06-29 01:37:43.210,2023-06-29 01:37:43.210,,,0.0,,UTC-0400,MPNPO0O1wv,,com.sec.android.app.shealth,2023-06-29 01:37:42.000,c0ebcbab-43f8-489a-bad2-6d189aaa9e87,
+,2023-07-02 14:11:09.000,,,10000,,2023-07-02 14:11:09.640,2023-07-02 14:11:09.640,,,0.0,,UTC-0400,MPNPO0O1wv,,com.sec.android.app.shealth,2023-07-02 14:11:09.000,dc0ffa62-80a8-4884-9a9a-4a8695838f51,
+62670031,2024-06-17 17:54:32.000,,,10000,62670031,2024-06-17 17:54:33.072,2024-06-17 17:54:33.072,,,0.0,,UTC-0400,sH3figesN6,,com.sec.android.app.shealth,2024-06-17 17:54:32.000,d6628a28-9c20-483d-988a-30803231fb3a,
+62720071,2024-09-29 22:11:29.000,,,10000,62720071,2024-09-29 22:11:29.883,2024-09-29 22:11:29.883,,,13.0,,UTC-0400,uAWUqdMJDI,,com.sec.android.app.shealth,2024-09-29 22:11:29.000,7f298a8d-4ae7-4778-b8d3-a2a822186a68,
